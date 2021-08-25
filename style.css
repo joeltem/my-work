@@ -1,0 +1,248 @@
+ *
+{
+    margin: 0;
+    padding: 0;
+}
+/*---------service-----*/
+#Service
+{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(child.jpg);
+    background-size: cover;
+    background-position-x: center;
+    color: #efefef!important;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#Service h1
+{
+    text-align: center;
+    color: #efefef!important;
+    padding-bottom: 10px;
+}
+#Service h1 ::after
+{
+    content: '';
+    background: #efefef;
+    display: block;
+    height: 3px;
+    width: 170px;
+    margin: 2opx auto 5px;
+}
+/*--------------Get in touch------*/
+#container
+{
+    background: #efefef;
+    padding-top: 4opx;
+    padding-bottom: 30;
+    color: #777;
+}
+.contact-form
+{
+    padding: 15px;
+}
+.form-control
+{
+    border-radius: 0 !important;
+    border: none !important;
+}
+::placeholder
+{
+    color: #999 !important;
+}
+.follow
+{
+    background: #fff;
+    padding: 10px;
+    margin: 15px;
+}
+.contact-infor .fa 
+{
+  margin: 10px;
+  color: #007bff;
+  font-weight: bold;
+}
+#flooter
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa heart-o
+{
+    margin: 3px;
+    color: red;
+}
+.Images
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0px 0 0 115px;
+}
+#About
+{
+    padding-left: 20%;
+}
+/*-------------Registration---------*/
+#Registration
+{
+        background: #efefef;
+        padding-top: 40px;
+        padding-bottom: 40;
+        color: #777b77;
+}
+.contact
+{
+    padding: 15px;
+}
+.hero-content-area a
+{
+    background-color: blue;
+    width: 10%;
+    height: 70px;
+    color: white;
+    align-items: center ;
+    position: absolute;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 70%;
+}
+.sign-up
+{
+  width: 50%;
+  height: 25px;
+  background-color: #777;
+}
+.bottom-text
+{
+    text-align: center;
+    align-items: center ;
+}
+
+.navbar
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  li 
+  {
+    float: left;
+  }
+   li a 
+  {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+ li a:hover 
+  {
+    background-color: rgb(100, 91, 91);
+  }
+/*----------Qualified Workers--------*/ 
+.Container
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0px 0 0 115px;  
+}
+
+.button-submit
+{
+    margin-left: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#flooter
+{
+    text-align: center;
+    background-color: black;
+}
+.box7
+{
+    display:inline-block;
+
+
+}
+ .box7 ol{
+     list-style-type: none;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
